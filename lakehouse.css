@@ -1,0 +1,57 @@
+/**
+ * @name japanlakehouse
+ * @version 1.0.6.3
+ * @description A translucent/frosted glass Discord theme
+ * @author CapnKitten
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ * @BDEditor Translucence
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+
+:root {
+  --app-bg: url('https://i.imgur.com/7ZBY8ho.jpeg');
+  --app-blur: 5px;
+  --app-margin: 16px;
+  --app-radius: 10px;
+  --accent-hue: 211;
+  --accent-saturation: 30%;
+  --accent-lightness: 53%;
+  --accent-opacity: 0.82;
+  --sidebar-color: rgb(0,0,0,0.64);
+  --main-content-color: rgb(0,0,0,0.69);
+  --undefined: 0;
+  --interactive-normal: #aaa;
+  --interactive-hover: #ddd;
+  --interactive-active: #fff;
+  --interactive-muted: #777;
+  --undefined: 0;
+  --background-modifier-hover: rgba(255,255,255,0.075);
+  --background-modifier-selected: rgba(255,255,255,0.125);
+  --message-color: rgb(255,255,255,0);
+  --message-radius: 8px;
+  --message-padding-top: 0px;
+  --message-padding-side: 2px;
+  --undefined: 0;
+  --reply-hue: 193;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.1;
+  --textarea-alpha-focus: 0.11;
+  --textarea-radius: 6px;
+  --card-color: rgba(0,0,0,0.4);
+  --card-color-hover: rgb(0,0,0,0.42);
+  --card-color-select: rgb(0,0,0,0.67);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+}
+
+/* Any custom CSS below here */
+
+
